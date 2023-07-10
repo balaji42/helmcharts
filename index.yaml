@@ -3,21 +3,21 @@ entries:
   ping:
   - apiVersion: v2
     appVersion: "1.0"
-    created: "2023-07-10T09:05:21.063672772+05:30"
+    created: "2023-07-10T09:31:13.163827125+05:30"
     description: A Helm chart for RIFT.ware ping with dhcp
     digest: 453bb829aabd3c30bb4a3e743b349bb78179293a63fa161a058ccf1706110e61
     name: ping
     urls:
-    - https://balaji42.github.com/helmcharts/charts/ping-0.3.0.tgz
+    - https://balaji42.github.io/helmcharts/charts/ping-0.3.0.tgz
     version: 0.3.0
   pong:
   - apiVersion: v1
     appVersion: "1.0"
-    created: "2023-07-10T09:05:21.063781208+05:30"
+    created: "2023-07-10T09:31:13.1639352+05:30"
     description: A Helm chart for RIFT.ware pong
     digest: a3d3940d277cc47b15aaf00b6acf063505000c6859528551e7a83d2735915242
     name: pong
     urls:
-    - https://balaji42.github.com/helmcharts/charts/pong-0.2.0.tgz
+    - https://balaji42.github.io/helmcharts/charts/pong-0.2.0.tgz
     version: 0.2.0
-generated: "2023-07-10T09:05:21.063471111+05:30"
+generated: "2023-07-10T09:31:13.163640752+05:30"
