@@ -9,7 +9,7 @@ entries:
     name: ping
     urls:
     - https://balaji42.github.io/helmcharts/charts/ping-0.3.0.tgz
-    version: 1.0
+    version: '1.0'
   pong:
   - apiVersion: v1
     appVersion: "1.0"
@@ -19,5 +19,5 @@ entries:
     name: pong
     urls:
     - https://balaji42.github.io/helmcharts/charts/pong-0.2.0.tgz
-    version: 1.0
+    version: '1.0'
 generated: "2023-07-10T09:31:13.163640752+05:30"
